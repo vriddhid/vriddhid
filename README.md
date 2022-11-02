@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vriddhid
+- 👋 Hi, I’m Vriddhi Darak
 - 👀 I’m interested in web and mobile app development
 - 🌱 I’m currently learning reactjs and flutter
 - 📫 Reach me on [linkedin](https://www.linkedin.com/in/vriddhid/)
